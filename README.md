@@ -45,3 +45,4 @@ cmake -S core -B build && cmake --build build && ctest --test-dir build
 GPL-3.0-or-later. See [LICENSE](LICENSE). Data files under `data/` carry their own licenses (see [docs/DATA_SOURCES.md](docs/DATA_SOURCES.md)).
 
 Copyright (c) 2026 add000
+# shinon
